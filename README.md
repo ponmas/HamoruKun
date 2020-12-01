@@ -1,0 +1,2 @@
+# WelcomeRace-HamoruKun
+コンピュータがマイク入力にハモってくれるプログラム
