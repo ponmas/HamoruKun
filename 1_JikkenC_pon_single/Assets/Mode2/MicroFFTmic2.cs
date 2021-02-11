@@ -9,8 +9,9 @@ public class MicroFFTmic2 : MonoBehaviour
 
     // マイクからの音を拾う
     public AudioSource mic;
+    //自分でマイクを選ぶ
     //private string mic_name= "マイク (Realtek High Definition Audio)";
-    private string mic_name = "マイク (USB PnP Sound Device)";
+    private string mic_name;// = "マイク (USB PnP Sound Device)";
     //private string mic_name = "マイク (WO Mic Device)";
 
     // 波形描画のための変数

@@ -10,9 +10,9 @@ public class MicroFFT : MonoBehaviour
     // マイクからの音を拾う
     public AudioSource mic;
     //private string mic_name= "マイク (Realtek High Definition Audio)";
-    private string mic_name = "マイク (WO Mic Device)";
+    //private string mic_name = "マイク (WO Mic Device)";
     //private string mic_name = "マイク (USB PnP Sound Device)";
-    //private string mic_name = null;
+    private string mic_name = null;
 
     // 波形描画のための変数
     private float[] wave;

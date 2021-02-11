@@ -8,7 +8,7 @@ public class MicroFFT2 : MonoBehaviour
 
     // マイクからの音を拾う
     public AudioSource[] mic;
-    private string[] mic_name = { "マイク (Realtek High Definition Audio)", "マイク (WO Mic Device)" };
+    private string[] mic_name;// = { "マイク (Realtek High Definition Audio)", "マイク (WO Mic Device)" };
 
     // 波形描画のための変数
     private float[] wave;
