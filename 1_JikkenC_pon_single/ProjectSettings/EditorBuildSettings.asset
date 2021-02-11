@@ -18,7 +18,7 @@ EditorBuildSettings:
     path: Assets/Mode2/Mode2.unity
     guid: 4a7ac5bb64132e743bfd039eeff665c9
   - enabled: 1
-    path: "Assets/Mode\u63A5\u5F85/ModeEntertain_ver3.unity"
+    path: "Assets/Mode\u63A5\u5F85/ModeEntertain.unity"
     guid: 330c1bf0540094c438cbfe09b8961312
   - enabled: 1
     path: "Assets/Mode\u7DF4\u7FD2/ModeTraining.unity"

@@ -7,7 +7,7 @@ public class ModeSelect : MonoBehaviour
 {
     public void buttonMode1()
     { 
-        SceneManager.LoadScene("ModeEntertain_ver3");
+        SceneManager.LoadScene("ModeEntertain");
 
     }
     public void buttonMode2()

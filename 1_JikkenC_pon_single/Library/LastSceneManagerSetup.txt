@@ -1,5 +1,5 @@
 sceneSetups:
-- path: "Assets/Mode\u63A5\u5F85/ModeEntertain_ver3.unity"
+- path: Assets/Mode2/Mode2_SomeIn.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
