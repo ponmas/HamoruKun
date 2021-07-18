@@ -3,7 +3,7 @@
 
 チューナー ＋ はもり生成機能
 
-YouTube : https://youtu.be/E9r-aPZftts
+<!-- YouTube : https://youtu.be/E9r-aPZftts -->
 ![ハモる君_練習モード](https://user-images.githubusercontent.com/50661729/107653787-5c6df800-6cc5-11eb-8e6e-3acb1d51dd23.PNG)
 
 # 実現機能
